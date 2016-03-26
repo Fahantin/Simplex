@@ -1,0 +1,26 @@
+c:\users\antonio\documents\visual studio 2013\Projects\Simplex\Simplex\bin\Debug\Simplex.exe.config
+c:\users\antonio\documents\visual studio 2013\Projects\Simplex\Simplex\bin\Debug\Simplex.exe
+c:\users\antonio\documents\visual studio 2013\Projects\Simplex\Simplex\bin\Debug\Simplex.pdb
+c:\users\antonio\documents\visual studio 2013\Projects\Simplex\Simplex\obj\Debug\Simplex.Properties.Resources.resources
+c:\users\antonio\documents\visual studio 2013\Projects\Simplex\Simplex\obj\Debug\Simplex.csproj.GenerateResource.Cache
+c:\users\antonio\documents\visual studio 2013\Projects\Simplex\Simplex\obj\Debug\Simplex.exe
+c:\users\antonio\documents\visual studio 2013\Projects\Simplex\Simplex\obj\Debug\Simplex.pdb
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\Simplex\Simplex\obj\Debug\Simplex.Simplex.resources
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\Simplex\Simplex\obj\Debug\Simplex.csprojResolveAssemblyReference.cache
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\Simplex\Simplex\bin\Debug\Simplex.exe.manifest
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\Simplex\Simplex\bin\Debug\Simplex.application
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\Simplex\Simplex\obj\Debug\Simplex.exe.manifest
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\Simplex\Simplex\obj\Debug\Simplex.application
+C:\Users\Thiago Fantin\Documents\Visual Studio 2015\Projects\Simplex\Simplex\bin\Debug\Simplex.exe.config
+C:\Users\Thiago Fantin\Documents\Visual Studio 2015\Projects\Simplex\Simplex\obj\Debug\Simplex.exe
+C:\Users\Thiago Fantin\Documents\Visual Studio 2015\Projects\Simplex\Simplex\obj\Debug\Simplex.pdb
+C:\Users\Thiago Fantin\Documents\Visual Studio 2015\Projects\Simplex\Simplex\obj\Debug\Simplex.csprojResolveAssemblyReference.cache
+C:\Users\Thiago Fantin\Documents\Visual Studio 2015\Projects\Simplex\Simplex\obj\Debug\Simplex.Properties.Resources.resources
+C:\Users\Thiago Fantin\Documents\Visual Studio 2015\Projects\Simplex\Simplex\obj\Debug\Simplex.Simplex.resources
+C:\Users\Thiago Fantin\Documents\Visual Studio 2015\Projects\Simplex\Simplex\obj\Debug\Simplex.csproj.GenerateResource.Cache
+C:\Users\Thiago Fantin\Documents\Visual Studio 2015\Projects\Simplex\Simplex\bin\Debug\Simplex.exe.manifest
+C:\Users\Thiago Fantin\Documents\Visual Studio 2015\Projects\Simplex\Simplex\bin\Debug\Simplex.application
+C:\Users\Thiago Fantin\Documents\Visual Studio 2015\Projects\Simplex\Simplex\bin\Debug\Simplex.exe
+C:\Users\Thiago Fantin\Documents\Visual Studio 2015\Projects\Simplex\Simplex\bin\Debug\Simplex.pdb
+C:\Users\Thiago Fantin\Documents\Visual Studio 2015\Projects\Simplex\Simplex\obj\Debug\Simplex.exe.manifest
+C:\Users\Thiago Fantin\Documents\Visual Studio 2015\Projects\Simplex\Simplex\obj\Debug\Simplex.application
